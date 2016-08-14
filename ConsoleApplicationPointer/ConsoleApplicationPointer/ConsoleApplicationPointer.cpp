@@ -171,6 +171,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("%d\n", evaluateArray('+', 5, 6));
 	printf("%d\n", evaluateArray('-', 5, 6));
 	printf("%d\n", evaluateArray('*', 5, 6));
+	printf("%d\n", evaluateArray('/', 5, 6));
 	return 0;
 }
 
