@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplicationPointer.cpp
+d:\cpp_workspace\cpp_practise\consoleapplicationpointer\consoleapplicationpointer\consoleapplicationpointer.cpp(75): warning C4715: 'select': not all control paths return a value
+  ConsoleApplicationPointer.vcxproj -> D:\CPP_Workspace\CPP_Practise\ConsoleApplicationPointer\Debug\ConsoleApplicationPointer.exe
+  ConsoleApplicationPointer.vcxproj -> D:\CPP_Workspace\CPP_Practise\ConsoleApplicationPointer\Debug\ConsoleApplicationPointer.pdb (Full PDB)
